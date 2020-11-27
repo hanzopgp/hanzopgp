@@ -11,7 +11,15 @@ Sharing some university and personnal projets.
 - Physics
 - Mathematics
 
-<h5><b>Technologies :</b></h5>
+<h5><b>Languages learning :</b></h5>
+- Java (mainly)
+- Python
+- PHP
+- Haskell
+- Bash/AWK
+- HTML/CSS/JS
+- C/C++
+- Assembly/VHDL (basics)
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
