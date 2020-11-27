@@ -1,3 +1,13 @@
+<h3> BIO : </h3>
+
+Sharing some university and personnal projets.
+
+<h5><b>Hobbies :</b></h5>
+- Artificial Intelligence
+- Neurosciences
+- Physics
+- Mathematics
+
 <h3> STATS : </h3>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hanzopgp&theme=highcontrast&show_icons=true&count_private=true)
