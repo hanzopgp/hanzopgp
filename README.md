@@ -12,6 +12,7 @@ Sharing some university and personnal projets.
 - Mathematics
 
 <h5><b>Languages learning :</b></h5>
+
 - Java (mainly)
 - Python
 - PHP
