@@ -22,12 +22,9 @@ Sharing some university and personnal projets.
 - C/C++
 - Assembly/VHDL (basics)
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-
-
-
 <h3> Statistics : </h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzopgp&layout=compact&langs_count=8&exclude_repo=Steganography)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hanzopgp&theme=highcontrast&show_icons=true&count_private=true)
 
