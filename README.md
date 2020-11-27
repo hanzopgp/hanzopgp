@@ -1,5 +1,7 @@
 <h1> Welcome ! </h1>
 
+<hr>
+
 <h3> Biography : </h3>
 
 Sharing some university and personnal projets.
@@ -22,6 +24,8 @@ Sharing some university and personnal projets.
 - C/C++
 - Assembly/VHDL (basics)
 
+<hr>
+
 <h3> Statistics : </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzopgp&layout=compact&langs_count=8&exclude_repo=Steganography)](https://github.com/anuraghazra/github-readme-stats)
@@ -31,6 +35,8 @@ Sharing some university and personnal projets.
 <h3> Songs : </h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4bfnbw32941fqfatn327dfeh5&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+<hr>
 
 <h3> Visitor count : </h3>
 
