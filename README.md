@@ -12,6 +12,8 @@ Sharing some university and personnal projets.
 - Neurosciences
 - Physics
 - Mathematics
+- Workout
+- Cinema
 
 <h5><b>Languages learning :</b></h5>
 
