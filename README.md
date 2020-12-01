@@ -2,7 +2,8 @@
 
 ## Biography :
 
-Sharing some university and personnal projets.
+I'm currently studying computer science (AI oriented) in Caen, France. After completing my bachelor's degree I would like to do a master's degree in AI, and a PhD after that. I'm also thinking about a double degree, probably in another science (Mathematics, Physics, Biology). I'm sharing some school or personnal projects here so I can keep track of my evolution.
+
 
 ### Hobbies :
 
