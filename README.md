@@ -14,6 +14,8 @@ Sharing some university and personnal projets.
 - Mathematics
 - Workout
 - Cinema
+- Video editing
+- Music
 
 <h5><b>Languages learning :</b></h5>
 
