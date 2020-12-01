@@ -32,7 +32,7 @@ Sharing some university and personnal projets.
 
 <h3> Statistics : </h3>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=hanzopgp&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=hanzopgp&theme=highcontrast&show_icons=true&count_private=true&title_color=089e00)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzopgp&layout=compact&langs_count=8&exclude_repo=Steganography)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> Songs : </h3>
