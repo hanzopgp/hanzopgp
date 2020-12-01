@@ -1,12 +1,12 @@
-<h1> Welcome ! </h1>
+# Welcome !
 
 <hr>
 
-<h3> Biography : </h3>
+## Biography :
 
 Sharing some university and personnal projets.
 
-<h5><b>Hobbies :</b></h5>
+### Hobbies :
 
 - Artificial Intelligence
 - Neurosciences
@@ -17,7 +17,7 @@ Sharing some university and personnal projets.
 - Video editing
 - Music
 
-<h5><b>Languages learning :</b></h5>
+### Languages learning :
 
 - Java (mainly)
 - Python
@@ -30,18 +30,20 @@ Sharing some university and personnal projets.
 
 <hr>
 
-<h3> Statistics : </h3>
+## Statistics :
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hanzopgp&theme=highcontrast&show_icons=true&count_private=true&title_color=09ba00)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzopgp&layout=compact&langs_count=8&bg_color=000000&title_color=09ba00&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3> Songs : </h3>
+<hr>
+
+## Songs : 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4bfnbw32941fqfatn327dfeh5&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <hr>
 
-<h3> Visitor count : </h3>
+## Visitor count : 
 
 ![Visitor Count](https://profile-counter.glitch.me/hanzopgp/count.svg)
 
