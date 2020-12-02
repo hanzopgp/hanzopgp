@@ -2,7 +2,7 @@
 
 ## Biography :
 
-I'm currently studying computer science (AI oriented) in Caen, France. After completing my bachelor's degree I would like to do a master's degree in AI, and a PhD after that. I'm also thinking about a double degree, probably in another science (Mathematics, Physics, Biology). I'm sharing some school or personnal projects here so I can keep track of my evolution. My next personnal projects will probably be about genetic algorithms or perceptron. I also want to learn more about Clean code and architecture to become a better developper. 
+>I'm currently studying computer science (AI oriented) in Caen, France. After completing my bachelor's degree I would like to do a master's degree in AI, and a PhD after that. I'm also thinking about a double degree, probably in another science (Mathematics, Physics, Biology). Indeed, I would really like to work in research. My goal is to work somewhere between Neuroscience, Biology, Computer science ... in companies such as Neuralink. I'm sharing some school or personnal projects here so I can keep track of my evolution. My next personnal projects will probably be about genetic algorithms or perceptron. I also want to learn more about Clean code and architecture to become a better developper. 
 
 
 ### Hobbies :
