@@ -42,3 +42,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/hanzopgp/count.svg)
 
+## Link : 
+
+- mail : enzodurandcontact@gmail.com
+- twitter : (https://twitter.com/shikamaru667)
+
