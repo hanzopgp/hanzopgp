@@ -45,5 +45,7 @@
 ## Link : 
 
 - mail : enzodurandcontact@gmail.com
-- twitter : (https://twitter.com/shikamaru667)
+- discord : Hanzo#8840
+- twitter : @shikamaru667
+- instagram : @hanzoxd
 
