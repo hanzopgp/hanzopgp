@@ -2,7 +2,7 @@
 
 ## Biography :
 
->I'm currently studying computer science (AI oriented) in Caen, France. After completing my bachelor's degree I would like to do a master's degree in AI, and a PhD after that. I'm also thinking about a double degree, probably in another science, such as Mathematics, Physic or Biology. Indeed, I would really like to work in research. My goal is to work somewhere between Neuroscience, Biology, Computer science ... in companies such as Neuralink. I'm sharing some school or personal projects here so I can keep track of my evolution. My next personal projects will probably be about genetic algorithms or perceptron. I also want to learn more about Clean code and architecture to become a better developer. 
+>My name is Enzo and I'm 23 years old. I'm currently studying computer science (AI oriented) in Caen, France. After completing my bachelor's degree I would like to do a master's degree in AI, and a PhD after that. I'm also thinking about a double degree, probably in another science, such as Mathematics, Physic or Biology. Indeed, I would really like to work in research. My goal is to work somewhere between Neuroscience, Biology, Computer science ... in companies such as Neuralink. I'm sharing some school or personal projects here so I can keep track of my evolution. My next personal projects will probably be about genetic algorithms or perceptron. I also want to learn more about Clean code and architecture to become a better developer. 
 
 
 ### Hobbies :
@@ -38,10 +38,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4bfnbw32941fqfatn327dfeh5&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-## Visitor count : 
-
-![Visitor Count](https://profile-counter.glitch.me/hanzopgp/count.svg)
-
 ## Link : 
 
 - mail : enzodurandcontact@gmail.com
@@ -49,3 +45,6 @@
 - twitter : @shikamaru667
 - instagram : @hanzoxd
 
+## Visitor count : 
+
+![Visitor Count](https://profile-counter.glitch.me/hanzopgp/count.svg)
