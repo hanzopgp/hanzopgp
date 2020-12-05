@@ -42,8 +42,7 @@
 
 - mail : enzodurandcontact@gmail.com
 - discord : Hanzo#8840
-- twitter : @shikamaru667
-- instagram : @hanzoxd
+- quora : [Quora](https://fr.quora.com/profile/Hanzo?ch=10&share=519cf10b&srid=YhyTm) 
 
 ## Visitor count : 
 
