@@ -51,7 +51,7 @@
 
 - mail : enzodurandcontact@gmail.com
 - discord : Hanzo#8840
-- quora : [Quora](https://fr.quora.com/profile/Hanzo?ch=10&share=519cf10b&srid=YhyTm) 
+- quora : [hanzo](https://fr.quora.com/profile/Hanzo?ch=10&share=519cf10b&srid=YhyTm) 
 
 ## Visitor count  
 
