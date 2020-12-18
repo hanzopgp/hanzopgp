@@ -10,10 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzopgp&layout=compact&langs_count=8&bg_color=000000&title_color=09ba00&text_color=ffffff&hide=jupyter%20notebook,TeX&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-## Songs 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4bfnbw32941fqfatn327dfeh5&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 ## Links 
 
 - mail : enzodurandcontact@gmail.com
