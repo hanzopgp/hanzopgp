@@ -8,22 +8,23 @@
 - Neurosciences
 - Physics
 - Mathematics
-- Philosophy
 - Workout
 - Cinema
 - Video editing
 - Music
 
+## Skills
+
 ### Languages learning :
 
-- Java (mainly)
-- Python
-- PHP
-- Haskell
-- Bash/AWK
-- HTML/CSS/JS
-- C/C++
-- Assembly/VHDL (basics)
+- ***** Java
+- **** PHP        
+- **** Haskell 
+- *** Python 
+- *** Bash/AWK 
+- *** HTML/CSS/JS 
+- *** C/C++ 
+- ** Assembly/VHDL 
 
 ### Things I want to learn nowadays :
 
@@ -31,4 +32,4 @@
 - Clean code
 - Clean architecture
 - Genetic algorithms
-- Perceptron
+- Neural networks
