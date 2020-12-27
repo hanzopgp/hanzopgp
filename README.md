@@ -1,4 +1,4 @@
-# Welcome !
+<h1 align="center" style="color:#000; font-family: 'Segoe UI'; font-size: 4em;">Welcome !</h1>
 
 ## Biography 
 
