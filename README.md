@@ -25,14 +25,14 @@
 
 ### Languages learning :
 
-- Java       *****
-- PHP        ****
-- Haskell ****
-- Python ***
-- Bash/AWK ***
-- HTML/CSS/JS ***
-- C/C++ ***
-- Assembly/VHDL **
+- **** Java
+- **** PHP        
+- **** Haskell 
+- *** Python 
+- *** Bash/AWK 
+- *** HTML/CSS/JS 
+- *** C/C++ 
+- ** Assembly/VHDL 
 
 ### Things I want to learn nowadays :
 
