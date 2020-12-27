@@ -20,7 +20,6 @@
 - Music
 
 <hr>
-<hr>
 
 ## Skills
 
@@ -44,7 +43,6 @@
 - Neural networks
 
 <hr>
-<hr>
 
 ## Statistics 
 
@@ -53,7 +51,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzopgp&layout=compact&langs_count=8&bg_color=000000&title_color=09ba00&text_color=ffffff&hide=jupyter%20notebook,TeX&exclude_repo=First3DGame,TeX&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
-<hr>
 
 ## Links 
 
@@ -61,7 +58,6 @@
 - discord : Hanzo#8840
 - quora : [hanzo](https://fr.quora.com/profile/Hanzo?ch=10&share=519cf10b&srid=YhyTm) 
 
-<hr>
 <hr>
 
 ## Visitor count  
