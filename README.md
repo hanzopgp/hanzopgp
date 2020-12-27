@@ -55,7 +55,7 @@
 ## Links 
 
 - mail : enzodurandcontact@gmail.com
-- [![Discord Badge](https://img.shields.io/badge/-Guigui-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discordapp.com/users/339384664118657034/) 
+- [![Discord Badge](https://img.shields.io/badge/-Hanzo-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discordapp.com/users/339384664118657034/) 
 - quora : [hanzo](https://fr.quora.com/profile/Hanzo?ch=10&share=519cf10b&srid=YhyTm) 
 
 <hr>
