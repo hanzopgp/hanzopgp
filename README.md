@@ -25,7 +25,7 @@
 
 ### Languages learning :
 
-- **** Java
+- ***** Java
 - **** PHP        
 - **** Haskell 
 - *** Python 
