@@ -19,8 +19,6 @@
 - Video editing
 - Music
 
-<hr>
-
 ## Skills
 
 ### Languages learning :
@@ -42,23 +40,17 @@
 - Genetic algorithms
 - Neural networks
 
-<hr>
-
 ## Statistics 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hanzopgp&theme=highcontrast&show_icons=true&count_private=true&title_color=09ba00)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzopgp&layout=compact&langs_count=8&bg_color=000000&title_color=09ba00&text_color=ffffff&hide=jupyter%20notebook,TeX&exclude_repo=First3DGame,TeX&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
-
 ## Links 
 
 - mail : enzodurandcontact@gmail.com
 - Hanzo#8840
 - quora : [hanzo](https://fr.quora.com/profile/Hanzo?ch=10&share=519cf10b&srid=YhyTm) 
-
-<hr>
 
 ## Visitor count  
 
