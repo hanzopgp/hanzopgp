@@ -2,7 +2,7 @@
 
 ## Biography 
 
-<p><img width="578" src="test2.png"></p>
+<p><img width="570" src="test2.png"></p>
 
 ## Statistics 
 
