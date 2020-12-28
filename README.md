@@ -15,6 +15,7 @@
 - mail : [enzodurandcontact@gmail.com](mailto:letgui2@gmail.com)
 - discord : [Hanzo#8840](https://discordapp.com/users/339384664118657034/)
 - quora : [hanzo](https://fr.quora.com/profile/Hanzo?ch=10&share=519cf10b&srid=YhyTm) 
+- website : [CV & Porfolio](https://hanzopgp.github.io/CVPortfolioWeb/)
 
 ## Visitor count  
 
