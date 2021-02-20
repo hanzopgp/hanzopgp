@@ -17,7 +17,7 @@
 - mail : [enzodurandcontact@gmail.com](mailto:enzodurandcontact@gmail.com)
 - discord : [Hanzo#8840](https://discordapp.com/users/339384664118657034/)
 - quora : [hanzo](https://fr.quora.com/profile/Hanzo?ch=10&share=519cf10b&srid=YhyTm) 
-- linkedin : [linkedin](https://www.linkedin.com/in/enzo-durand-494700204/)
+- linkedin : [enzo durand](https://www.linkedin.com/in/enzo-durand-494700204/)
 
 ## Visitor count  
 
