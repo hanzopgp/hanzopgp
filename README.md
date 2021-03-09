@@ -13,7 +13,7 @@
 ## Links 
 
 - Website : [Resume & Porfolio](https://hanzopgp.github.io/CVPortfolioWeb/)
-- Project list : [ProjectList](https://hanzopgp.github.io/ProjectList/)
+- Portfolio : [ProjectList](https://hanzopgp.github.io/ProjectList/)
 - Mail : [enzodurandcontact@gmail.com](mailto:enzodurandcontact@gmail.com)
 - Discord : [Hanzo#8840](https://discordapp.com/users/339384664118657034/)
 - Quora : [hanzo](https://fr.quora.com/profile/Hanzo?ch=10&share=519cf10b&srid=YhyTm) 
