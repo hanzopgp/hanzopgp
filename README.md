@@ -18,6 +18,8 @@
 - Discord : [Hanzo#8840](https://discordapp.com/users/339384664118657034/)
 - Quora : [hanzo](https://fr.quora.com/profile/Hanzo?ch=10&share=519cf10b&srid=YhyTm) 
 - Linkedin : [Enzo Durand](https://www.linkedin.com/in/enzo-durand-494700204/)
+- GitLab : [hanzopgp](https://gitlab.com/hanzopgp)
+- Kaggle : [Enzo Durand](https://www.kaggle.com/enzodurand)
 
 ## Visitor count  
 
