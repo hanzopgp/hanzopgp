@@ -2,7 +2,7 @@
 
 ## Biography 
 
-<p><img width="570" src="update_indesign/Github/github2.png"></p>
+<p><img width="1000" src="update_indesign/Github/github2.png"></p>
 
 ## Statistics 
 
