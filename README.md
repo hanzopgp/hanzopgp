@@ -2,7 +2,12 @@
 
 ## Biography 
 
+<<<<<<< HEAD
 <p><img width="620" src="update_indesign/Github/unnamed.png"></p>
+=======
+<!-- <p><img width="620" src="update_indesign/Github/github2.png"></p> -->
+<p><img width="620" src="test2.png"></p>
+>>>>>>> edc54da17b98117e21506a3f9e906bc1371a9a46
 
 ## Statistics 
 
@@ -14,6 +19,7 @@
 
 - Website : [Resume & Porfolio](https://hanzopgp.github.io/CVPortfolioWeb/)
 - Portfolio : [ProjectList](https://hanzopgp.github.io/ProjectList/)
+- Hobbies : [ScienceLinks](https://github.com/hanzopgp/ScienceLinks/blob/master/README.md)
 - Mail : [enzodurandcontact@gmail.com](mailto:enzodurandcontact@gmail.com)
 - Discord : [Hanzo#8840](https://discordapp.com/users/339384664118657034/)
 - Quora : [hanzo](https://fr.quora.com/profile/Hanzo?ch=10&share=519cf10b&srid=YhyTm) 
