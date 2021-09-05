@@ -12,6 +12,7 @@
 
 ## Links 
 
+- Twitter : [shikamaru667](https://twitter.com/shikamaru667)
 - Website : [Resume & Porfolio](https://hanzopgp.github.io/CVPortfolioWeb/)
 - Portfolio : [ProjectList](https://hanzopgp.github.io/ProjectList/)
 - Hobbies : [ScienceLinks](https://github.com/hanzopgp/ScienceLinks/blob/master/README.md)
