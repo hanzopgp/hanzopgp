@@ -13,7 +13,7 @@
 ## Links 
 
 - Portfolio : [ProjectList](https://hanzopgp.github.io/ProjectList/)
-- Website : [Resume & Porfolio (outdated)](https://hanzopgp.github.io/CVPortfolioWeb/)
+- Website (outdated) : [Resume & Porfolio](https://hanzopgp.github.io/CVPortfolioWeb/)
 - Hobbies : [ScienceLinks](https://github.com/hanzopgp/ScienceLinks/blob/master/README.md)
 - Brain journey : [BrainJourney](https://github.com/hanzopgp/BrainJourney)
 - Mail : [enzodurandcontact@gmail.com](mailto:enzodurandcontact@gmail.com)
