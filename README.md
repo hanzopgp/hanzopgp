@@ -1,8 +1,6 @@
 <h1 align="center" style="color:#000; font-family: 'Segoe UI'; font-size: 4em;">Welcome !</h1>
 
-## Biography 
-
-<p><img width="620" src="update_indesign/github_test_final.png"></p>
+<!-- <p><img width="620" src="update_indesign/github_test_final.png"></p> -->
 
 ## Statistics 
 
